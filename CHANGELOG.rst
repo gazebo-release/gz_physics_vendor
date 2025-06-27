@@ -2,8 +2,8 @@
 Changelog for package gz_physics_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.2.2 (2025-06-27)
+------------------
 * Merge pull request (`#9 <https://github.com/gazebo-release/gz_physics_vendor/issues/9>`_)
 * Bump version to 8.2.0
 * Contributors: Jose Luis Rivero
