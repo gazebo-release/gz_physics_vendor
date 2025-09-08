@@ -2,8 +2,8 @@
 Changelog for package gz_physics_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.4.0 (2025-09-08)
+------------------
 * Jetty support: 9.0.0-pre1 (`#12 <https://github.com/gazebo-release/gz_physics_vendor/issues/12>`_)
 * Contributors: Steve Peters
 
