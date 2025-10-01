@@ -2,8 +2,8 @@
 Changelog for package gz_physics_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.4.2 (2025-10-01)
+------------------
 * Merge pull request `#15 <https://github.com/gazebo-release/gz_physics_vendor/issues/15>`_ from gazebo-release/releasepy/rolling/9.0.0
   Bump version to 9.0.0
 * Bump version to 9.0.0
