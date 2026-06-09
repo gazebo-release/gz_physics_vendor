@@ -2,8 +2,8 @@
 Changelog for package gz_physics_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.5.1 (2026-06-09)
+------------------
 * Bump version to 9.3.0 (`#19 <https://github.com/gazebo-release/gz_physics_vendor/issues/19>`_)
 * Contributors: Ian Chen
 
