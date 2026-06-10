@@ -2,8 +2,8 @@
 Changelog for package gz_physics_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.8 (2026-06-10)
+------------------
 * Bump version to 7.7.0 (`#21 <https://github.com/gazebo-release/gz_physics_vendor/issues/21>`_)
 * Contributors: Jose Luis Rivero
 
