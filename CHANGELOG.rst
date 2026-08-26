@@ -2,8 +2,8 @@
 Changelog for package gz_physics_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.5.3 (2026-08-25)
+------------------
 * Upgrade to Rotary prerelease (`#26 <https://github.com/gazebo-release/gz_physics_vendor/issues/26>`_)
 * Contributors: Addisu Z. Taddese
 
