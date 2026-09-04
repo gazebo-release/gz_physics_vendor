@@ -2,8 +2,8 @@
 Changelog for package gz_physics_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.2.6 (2026-09-04)
+------------------
 * Revert "Enable Python bindings (`#29 <https://github.com/gazebo-release/gz_physics_vendor/issues/29>`_)" (`#32 <https://github.com/gazebo-release/gz_physics_vendor/issues/32>`_)
   This reverts commit c85e77d3e0f66d03c58fe616baa73c17957867ab.
 * Contributors: Addisu Z. Taddese
